@@ -71,9 +71,9 @@ INT <-> Busy
 PWM <-> DIO2
 
 NiceRF SX1280 TCXO module
-AN  <-> ??
-INT <-> ??
-PWM <-> ??
+AN  <-> Busy
+INT <-> DIO1
+PWM <-> TX0EN
 ```
 
 ![pinouts differences](./images/Pin_E28-Lambda80C.png)
